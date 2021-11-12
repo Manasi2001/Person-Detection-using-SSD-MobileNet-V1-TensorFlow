@@ -16,7 +16,6 @@ For object detection, a huge number of bounding boxes spanning the full image ar
 
 ![image](https://gitlab.iotiot.in/newbies/ai-skilling/ai-e2e/model-training-/transfer-leaning-v2/uploads/ac161e843a76b2bbb6450e71d0bc5521/image.png)
 ![image](https://gitlab.iotiot.in/newbies/ai-skilling/ai-e2e/model-training-/transfer-leaning-v2/uploads/2c1a66d0b4711c474b98e4ff774400b4/image.png)
-![image](https://gitlab.iotiot.in/newbies/ai-skilling/ai-e2e/model-training-/transfer-leaning-v2/uploads/b8b40f36eb8f99c286a9b8e604eedf31/image.png)
 
 As it can be seen, only people are getting detected.
 
